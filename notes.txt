@@ -1,0 +1,3 @@
+Going to use this app to learn react navigation after going over some of the react native express docs as recommended on the react navigation docs 
+
+first installed the library
